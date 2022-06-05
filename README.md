@@ -2,7 +2,7 @@
 
 ![Alt-текст](https://raw.githubusercontent.com/undro-dev/react-movies/main/public/screen-project.png?v=3&s=460 "Орк")
 
-###### Demo: https://undro-dev.github.io/public/index.html
+###### Demo: https://undro-dev.github.io/react-movies/
 ## Description:
 This is my first React learning project. This project implements the following functions: 
 - requests to the server
